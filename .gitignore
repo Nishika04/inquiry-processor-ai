@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# Testing
+.pytest_cache/
+
+# OS
+.DS_Store
+
+# Virtual env (if you have)
+venv/
+env/
